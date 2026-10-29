@@ -1,0 +1,4 @@
+month,forecast_net_sales,lower,upper,model
+2026-10-01,238271033.0,231669558.0,244872507.0,Linear trend + seasonality
+2026-11-01,221470510.0,214869036.0,228071985.0,Linear trend + seasonality
+2026-12-01,212075212.0,205473738.0,218676686.0,Linear trend + seasonality

@@ -1,0 +1,4 @@
+model,MAPE_pct,RMSE_Cr,Bias_pct
+Linear trend + seasonality,1.3,0.35,0.8
+Seasonal naive,8.3,1.79,-8.3
+Random forest,11.8,2.98,-8.4

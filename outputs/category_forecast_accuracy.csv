@@ -1,0 +1,7 @@
+category,best_model,MAPE_pct
+Antiseptics,Linear trend + seasonality,1.7
+Fabric Care,Linear trend + seasonality,3.1
+Toilet Care,Linear trend + seasonality,3.1
+Cough & Throat,Seasonal naive,3.6
+Disinfectants,Linear trend + seasonality,4.6
+Air Care,Linear trend + seasonality,6.9
