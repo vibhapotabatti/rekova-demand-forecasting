@@ -3,6 +3,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vibhapotabatti%2Frekova--demand--forecasting-181717?logo=github)](https://github.com/vibhapotabatti/rekova-demand-forecasting)
 
+> **Engineering flagship:** the [Airflow + dbt + DuckDB data platform](https://github.com/vibhapotabatti/rekova-data-platform)
+> runs the same data through a scheduled, tested production pipeline.
+
 > Honest framing (same rules as Project 1): this is a **simulated case study** for the
 > fictional client *Rekova Consumer Care*. It is modeled on the hygiene-FMCG domain you
 > support at Infosys — present it as domain-driven portfolio work, not as real client delivery.
